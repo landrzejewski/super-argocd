@@ -5,7 +5,7 @@ metadata:
   namespace: training
   labels:
     app-name: "echo-server"
-    env: "dev"
+    env: "prod"
   annotations:
     build-version: "42"
     git-commit: "a1b2c3d4"
